@@ -1,0 +1,44 @@
+[
+    {
+        "name":"item1",
+        "categoryID":"1",
+        "brandID":"1",
+        "price": 2.5
+    }, 
+    {
+        "name":"item2",
+        "categoryID":"1",
+        "brandID":"2",
+        "price": 49
+    },
+    {
+        "name":"item3",
+        "categoryID":"2",
+        "brandID":"2",
+        "price": 33
+    },
+    {
+        "name":"item4",
+        "categoryID":"2",
+        "brandID":"2",
+        "price": 25
+    },
+    {
+        "name":"item5",
+        "categoryID":"3",
+        "brandID":"3",
+        "price": 51
+    },
+    {
+        "name":"item6",
+        "categoryID":"3",
+        "brandID":"3",
+        "price": 90
+    },
+    {
+        "name":"item7",
+        "categoryID":"3",
+        "brandID":"3",
+        "price": 80
+    }
+]
